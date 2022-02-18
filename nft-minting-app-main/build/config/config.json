@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeB36a633A744D368211B6A25200EEfd07FA9f1c6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xeb36a633a744d368211b6a25200eefd07fa9f1c6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "faaanky club",
+  "SYMBOL": "FCNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/faaanky-club",
+  "SHOW_BACKGROUND": true
+}
